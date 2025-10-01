@@ -1,6 +1,6 @@
 # KIDS25-Team1
 
-Refer to our [GitHub](https://github.com/chengzhongshan/Py4LongReadRNASeq)
+Refer to our GitHub: [Py4LongReadRNASeq](https://github.com/chengzhongshan/Py4LongReadRNASeq)
 
 # PacBio Iso-Seq and TAGET Analysis Pipeline
 
